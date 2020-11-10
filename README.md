@@ -27,14 +27,14 @@ font-owesome
 # Getting Started
 To get local copy up and running just clone the Repository.
 
-# Authors
-👤 Author1
+# 👤 Author
+ 
 
-GitHub: @DENNIS-CODES
-Twitter: DENNISM44052159
-LinkedIn: https://www.linkedin.com/in/dennis-mwangi-14b7a01b2/
+-GitHub: [@DENNIS-CODES](https://github.com/DENNIS-CODES)
+-Twitter: [@DENNISM44052159](https://twitter.com/DENNISM44052159)
+-LinkedIn: [@Dennis Mwangi](https://www.linkedin.com/in/dennis-mwangi-14b7a01b2/)
 
-🤝 Contributing
+# 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the issues page.
@@ -43,7 +43,8 @@ Feel free to check the issues page.
 Give a ⭐ if you like this project
 
 # Acknowledgments
-Font-awesome for it's Awesome Icons
-Google Fonts for it's Amazing Fonts
-License
-This page is MIT licence
+-Font-awesome for it's Awesome Icons
+-Google Fonts for it's Amazing Fonts
+-odins challenge
+# 📝 License
+GPL-3.0 License

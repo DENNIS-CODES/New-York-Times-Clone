@@ -28,11 +28,12 @@ font-owesome
 To get local copy up and running just clone the Repository.
 
 # 👤 Author
+** Dennis Mwangi **
  
 
--GitHub: [@DENNIS-CODES](https://github.com/DENNIS-CODES)
--Twitter: [@DENNISM44052159](https://twitter.com/DENNISM44052159)
--LinkedIn: [@Dennis Mwangi](https://www.linkedin.com/in/dennis-mwangi-14b7a01b2/)
+- GitHub: [@DENNIS-CODES](https://github.com/DENNIS-CODES)
+- Twitter: [@DENNISM44052159](https://twitter.com/DENNISM44052159)
+- LinkedIn: [@Dennis Mwangi](https://www.linkedin.com/in/dennis-mwangi-14b7a01b2/)
 
 # 🤝 Contributing
 Contributions, issues, and feature requests are welcome!

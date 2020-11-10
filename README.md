@@ -19,10 +19,10 @@ font-owesome
 
 
 # cloned-sight-link
-https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0
+[NewYork-Times](https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0)
 
 # Live Demo
-Live Demo Link:https://DENNIS-CODES.github.io/New-York-Times-Clone/
+[Live Demo Link](https://DENNIS-CODES.github.io/New-York-Times-Clone/)
 
 # Getting Started
 To get local copy up and running just clone the Repository.
